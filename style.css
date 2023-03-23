@@ -1,0 +1,30 @@
+p {
+    color: rgb(255, 213, 0);
+}
+h3 {
+    color: rgb(139, 232, 9);
+}
+h4 {
+    color: rgb(35, 171, 105);
+}
+h5 {
+    color: rgb(157, 0, 255);
+}
+#megacoffee {
+    color: green;
+}
+.gongcha {
+    color: blue;
+}
+.water {
+    color: blue;
+}
+.coffee {
+    color: purple;
+}
+p.coffee {
+    color: purple;
+}
+p.coffee.star {
+    color: rgb(0, 132, 11);
+}
